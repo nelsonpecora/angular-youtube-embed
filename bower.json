@@ -1,0 +1,30 @@
+{
+  "name": "angular-youtube-loader",
+  "description": "Lazy load embedded youtube videos",
+  "keywords": [
+    "angular",
+    "youtube"
+  ],
+  "authors": ["Nelson Pecora <nelson@keats.me>"],
+  "license": "MIT",
+  "homepage": "https://github.com/yoshokatana/angular-youtube-loader",
+  "main": "./dist/angular-youtube-loader.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoshokatana/angular-youtube-loader.git"
+  },
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test*",
+    "gulpfile.js",
+    "gulpfile.coffee",
+    "package.json"
+  ],
+  "dependencies": {
+    "angular": "~1.2.15"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.15"
+  }
+}
