@@ -4,7 +4,9 @@ Lazy load youtube video embeds.
 
 # Usage
 
-`bower install angular-youtube-embed`
+```
+bower install angular-youtube-embed
+```
 
 Pretty simple, huh? Then just include the minified js in your app. After that, add it as a dependency in your angular app:
 
