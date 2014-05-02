@@ -1,10 +1,10 @@
-# angular-youtube-loader [![Build Status](https://travis-ci.org/yoshokatana/angular-youtube-loader.svg?branch=master)](https://travis-ci.org/yoshokatana/angular-youtube-loader)
+# angular-youtube [![Build Status](https://travis-ci.org/yoshokatana/angular-youtube.svg?branch=master)](https://travis-ci.org/yoshokatana/angular-youtube)
 
 Lazy load youtube video embeds.
 
 # Usage
 
-`bower install angular-youtube-loader`
+`bower install angular-youtube`
 
 Pretty simple, huh? Then just include the minified js in your app. After that, add it as a dependency in your angular app:
 
@@ -12,7 +12,7 @@ Pretty simple, huh? Then just include the minified js in your app. After that, a
 var app = angular.module('app', ['keats.youtube']);
 ```
 
-You can either add the included css file (`dist/angular-youtube-loader.css`) which has a few neat hacks to get iframes to scale correctly, or you can just grab the styles and include them in your own css/less/sass/scss/stylus files.
+You can either add the included css file (`dist/angular-youtube.css`) which has a few neat hacks to get iframes to scale correctly, or you can just grab the styles and include them in your own css/less/sass/scss/stylus files.
 
 ## HTML
 

@@ -1,5 +1,5 @@
 {
-  "name": "angular-youtube-loader",
+  "name": "angular-youtube",
   "description": "Lazy load embedded youtube videos",
   "keywords": [
     "angular",
@@ -7,11 +7,11 @@
   ],
   "authors": ["Nelson Pecora <nelson@keats.me>"],
   "license": "MIT",
-  "homepage": "https://github.com/yoshokatana/angular-youtube-loader",
-  "main": "./dist/angular-youtube-loader.min.js",
+  "homepage": "https://github.com/yoshokatana/angular-youtube",
+  "main": "./dist/angular-youtube.min.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yoshokatana/angular-youtube-loader.git"
+    "url": "https://github.com/yoshokatana/angular-youtube.git"
   },
   "ignore": [
     "node_modules",
