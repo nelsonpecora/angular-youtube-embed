@@ -1,5 +1,7 @@
 # angular-youtube-embed [![Build Status](https://travis-ci.org/yoshokatana/angular-youtube-embed.svg?branch=master)](https://travis-ci.org/yoshokatana/angular-youtube-embed)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nelsonpecora/angular-youtube-embed.svg)](https://greenkeeper.io/)
+
 Lazy load youtube video embeds.
 
 # Usage
